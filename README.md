@@ -16,16 +16,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nodejs,python,django,android,java,cpp,go,mysql,redis,docker,k8s,git,github,vscode,linux,windows&perline=9" />
 </p>
 <br>
-### 🐍 Contribution Snake
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WartDipara/WartDipara/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WartDipara/WartDipara/output/github-snake.svg" />
-    <img alt="github snake" src="https://raw.githubusercontent.com/WartDipara/WartDipara/output/github-snake.svg" width="70%" />
-  </picture>
-</div>
-
-<br>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&text=Thanks+for+visiting!&fontSize=24&fontColor=fff" alt="footer" />
