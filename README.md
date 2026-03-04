@@ -6,14 +6,14 @@
 
 ### 🧑‍💻 About Me
 - 🔭 目前在搞：Web / App / 腳本 / 小型 AI 玩具
-- 🌱 正在學：Go / React / PyTorch
-- ⚡ 興趣：獨立遊戲、賽博朋克、喝奶茶
+- 🌱 正在學：Go / ML / PyTorch / IDA
+- ⚡ 興趣：畫畫 / 看小説 / 游戲
 
 <br>
 
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nodejs,python,django,android,java,cpp,go,ida,mysql,redis,docker,k8s,git,github,vscode,linux,windows&perline=9" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nodejs,python,django,java,cpp,go,mysql,redis,docker,k8s,git,github,vscode,linux,windows&perline=9" />
 </p>
 <br>
 
