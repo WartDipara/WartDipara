@@ -1,6 +1,4 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Hi!+我是+Ray;全棧+＆+安卓+開發;Coding+⋅+遊戲+⋅+摸魚" alt="typing" />
-  
   <h3>一位偶爾（經常）肝遊戲的普通開發者</h3>
 </div>
 
