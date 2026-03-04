@@ -33,8 +33,5 @@
   </picture>
 </div>
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=WartDipara&icon=5&color=0" alt="访客数" />
-</div>
-<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks+for+visiting!+%F0%9F%8C%9F&fontSize=30&fontColor=fff" alt="footer" />
 </div>
