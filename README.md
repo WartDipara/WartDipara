@@ -15,18 +15,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nodejs,python,django,android,java,cpp,go,mysql,redis,docker,k8s,git,github,vscode,linux,windows&perline=9" />
 </p>
-
 <br>
-
-### 📊 GitHub Stats
-<div align="center">
-  <img width="48%" src="https://github-readme-stats-fast.vercel.app/api?username=WartDipara&show_icons=true&theme=calm_pink&hide_border=true&include_all_commits=true&count_private=true" alt="stats" />
-&nbsp;&nbsp;
-  <img width="48%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=WartDipara&layout=compact&theme=calm_pink&hide_border=true&langs_count=8" alt="top langs" />
-</div>
-
-<br>
-
 ### 🐍 Contribution Snake
 <div align="center">
   <picture>
