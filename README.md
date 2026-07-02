@@ -1,22 +1,19 @@
 <div align="center">
   <h2>👋 Hi, I'm a passionate developer</h2>
-  <p><b>一位有熱情的開發者</b></p>
-  
-  <p align="center">
-    <img src="https://img.shields.io/badge/Focus-LLM%20%26%20Agents-blueviolet?style=flat-square" />
-    <img src="https://img.shields.io/badge/Learning-Go%20%7C%20PyTorch-gree?style=flat-square" />
-  </p>
+  <p>一位有熱情的開發者</p>
 </div>
+
+<br>
 
 ---
 
 ## 🧑‍💻 About Me / 關於我
 
-<table width="100%">
+<table width="100%" border="0">
 <tr>
 <td width="50%" valign="top">
 
-### :)
+### ：）
 - 🔭 **Currently working on:** LLM-based agent applications
 - 🌱 **Currently learning:** Go / PyTorch / IDA Pro
 - ⚡ **Interests:** Drawing / Gaming / Creating handy little tools
@@ -33,19 +30,14 @@
 </tr>
 </table>
 
+<br>
+
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack / 技術棧
+
+<br>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,nodejs,python,django,java,cpp,mysql,redis,docker,git,github,vscode,linux,windows&perline=9" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&rank_icon=github" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent" />
 </p>
