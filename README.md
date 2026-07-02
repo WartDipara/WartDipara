@@ -1,13 +1,13 @@
 <div align="center">
-  <h3>一位偶爾（經常）肝遊戲的普通開發者</h3>
+  <h3>一位努力成爲大手子的開發者</h3>
 </div>
 
 <br>
 
 ### 🧑‍💻 About Me
-- 🔭 目前在搞：Web / App / 腳本 / 小型 AI 玩具
-- 🌱 正在學：Go / ML / PyTorch / IDA
-- ⚡ 興趣：畫畫 / 看小説 / 游戲
+- 🔭 目前在整：基於LLM的agent應用
+- 🌱 正在學：Go / PyTorch / IDA
+- ⚡ 興趣：畫畫 / 游戲 / 整點方便用的小脚本工具
 
 <br>
 
