@@ -1,6 +1,6 @@
 <div align="center">
   <h2>👋 Hi, I'm a passionate developer</h2>
-  <p>一位有熱情的開發者</p>
+  <p>努力成爲開發大手子！</p>
 </div>
 
 <br>
