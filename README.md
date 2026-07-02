@@ -3,20 +3,14 @@
 </div>
 
 <br>
-
-<details>
 ### 🧑‍💻 關於我
 - 🔭 目前在整：基於LLM的agent應用
 - 🌱 正在學：Go / PyTorch / IDA
 - ⚡ 興趣：畫畫 / 游戲 / 整點方便用的小脚本工具
-</details>
-
-<details>
 ### 🧑‍💻 About Me
 - 🔭 Currently working on: LLM-based agent applications
 - 🌱 Currently learning: Go / PyTorch / IDA Pro
 - ⚡ Interests: Drawing / Gaming / Creating handy little tools
-</details>
 
 <br>
 
