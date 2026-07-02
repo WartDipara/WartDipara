@@ -16,7 +16,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🇺🇸 English
+### :)
 - 🔭 **Currently working on:** LLM-based agent applications
 - 🌱 **Currently learning:** Go / PyTorch / IDA Pro
 - ⚡ **Interests:** Drawing / Gaming / Creating handy little tools
@@ -24,7 +24,7 @@
 </td>
 <td width="50%" valign="top">
 
-### 🇨🇳 中文
+### xD
 - 🔭 **目前在整：** 基於 LLM 的 Agent 應用
 - 🌱 **正在學習：** Go / PyTorch / IDA Pro
 - ⚡ **個人興趣：** 畫畫 / 遊戲 / 整點方便用的小腳本工具
